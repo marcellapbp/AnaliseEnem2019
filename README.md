@@ -17,5 +17,7 @@ O site do INEP fornece dados completos do Enem de todos os anos, sendo no moment
   * <a href="https://github.com/marcellapbp/AnaliseEnem2019/blob/main/1_Leitura_Dados_em_Grande_Volume_com_Pandas.ipynb">1_Leitura Dados em Grande Volume com Pandas</a>
 * Visualização de Dados
   * <a href="https://github.com/marcellapbp/AnaliseEnem2019/blob/main/2_Visualizando_Distribui%C3%A7%C3%A3o_Inscritos_atrav%C3%A9s_Gr%C3%A1ficos_Geogr%C3%A1ficos.ipynb"> 2_Visualizando Distribuição Inscritos através Gráficos Geográficos</a>
+* Estatística
+  * <a href="https://github.com/marcellapbp/AnaliseEnem2019/blob/main/3_Tend%C3%AAncias%20Centrais%20Medidas%20Variabilidade.ipynb"> 3_Tendências Centrais Medidas Variabilidade</a>
 
 
